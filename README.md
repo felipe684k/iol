@@ -65,4 +65,3 @@ TICKERHISTORY.sql        # Creación de la base de datos + queries de ejemplo
 ## Notas
 
 - La asignación objetivo (`TARGET_ALLOCATION`) está hardcodeada en el script según mi estrategia personal de DCA (65% SPY / 25% VEA / 10% IEMG) — se puede ajustar fácilmente para otra composición.
-- Repo privado porque el script se conecta a mi cuenta personal de inversión.
